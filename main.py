@@ -35,4 +35,4 @@ def logToConsole(sensors) -> None:
     print()
 
 if "__main__" in __name__:
-    main()
+    main(True)
