@@ -1,1 +1,2 @@
 adafruit_bno055
+adafruit-circuitpython-busdevice

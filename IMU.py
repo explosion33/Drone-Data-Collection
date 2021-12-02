@@ -1,6 +1,5 @@
 import board
-import adafruit_bno055
-
+import Adafruit_BNO055
 
 class IMU:
     """
